@@ -1,2 +1,4 @@
-# Tugas-Besar-Artificial-Intelligence
+# Artificial Intelligence - Designing an Automatic Watering System using Fuzzy Logic
 Rapid market growth in every sector is leading to a larger customer base for more competitive service providers with new and innovative business models, as well as better services increasing customer acquisition costs. Customer churn is a customer's tendency to leave a service or company. Here we use one method that can be used, namely Artificial Neural Network (ANN). ANN is an artificial neural network technique that manages information inspired by the workings of the biological nervous system, especially information processing in human brain cells. The results obtained with a classification accuracy of up to 90%. This research was successful and suitable to be applied in this method because it is seen from its high level of accuracy.
+
+Embark on an Artificial Intelligence journey with our project: Designing an Automatic Watering System using Fuzzy Logic. Experience the innovation as we implement smart technology to optimize and automate the irrigation process.
